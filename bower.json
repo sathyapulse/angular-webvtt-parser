@@ -1,0 +1,10 @@
+{
+  "name": "angular-webvtt-parser",
+  "version": "0.0.1",
+  "homepage": "https://github.com/sathyapulse/angular-webvtt-parser",
+  "authors": [
+    "(Sathiyamoorthy Venkatesan <sathyapulse@gmail.com>)"
+  ],
+  "description": "Parse Web vtt files at a given time",
+  "license": "MIT"
+}
